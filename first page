@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First HTMLpage</title>
+</head>
+<body>
+    <nav> <a href="linking.html" target = "_blank"> open linking page</a><br><br> </nav>
+    <a href="first.html#msg1">message1</a>
+
+    <h1>THIS HEADIN A TAG</h1>
+
+    <h2>THIS HEADIN A TAG</h2>
+
+    <h3>THIS HEADIN A TAG</h3>
+
+    <h4>THIS HEADIN A TAG</h4>
+
+    <h5>THIS HEADIN A TAG</h5>
+
+    <h6>THIS HEADIN A TAG</6h>
+
+    <p id="msg1">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus quae, mollitia magni libero unde iusto quas consectetur! Exercitationem voluptatum magnam, rem necessitatibus veritatis asperiores similique pariatur quo, molestias adipisci quam.
+    Voluptatem praesentium fugiat cupiditate, culpa a quis, voluptatum magnam ipsam et quasi totam quam, eius sapiente facere eligendi perspiciatis explicabo excepturi aliquam enim aliquid obcaecati quae! Nisi dolorem amet pariatur.
+    Cumque error repellat totam soluta? Illum sequi assumenda atque aliquam molestiae accusantium obcaecati consectetur cupiditate eum molestias recusandae explicabo, maxime nobis dolorum consequatur minima quidem reiciendis ducimus ipsam? Consectetur, odio!
+    Ab odio accusamus quia porro quis pariatur tenetur, ducimus numquam, quod dolores earum mollitia expedita nemo sequi sed laboriosam molestias ut voluptas consequuntur praesentium, quaerat perspiciatis nihil obcaecati. Odio, sunt?
+    Libero quo dolores commodi error ipsa quos, illo, sapiente rem exercitationem provident suscipit omnis iste odit earum sint perferendis! Tempora aspernatur, eius temporibus impedit maiores ad repellendus! Cum, deleniti qui!</p>
+    
+    <pre>
+        Hey This is Diksha Varshney
+    </pre>
+    
+</body>
+</html>
