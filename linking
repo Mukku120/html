@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linking</title>
+</head>
+<body>
+    <nav>
+            <a href = "first.html" targer = "_blank">Open First Page </a><br><br>
+            <hr color ="blue" width ="50%" size="5xp">
+            <img src = "th.jpg"  alt = "img not found"/>
+            <hr color = "red" width = "50%" size ="5px">
+            <del>delete</del>
+            <small>this is small</small>
+            <h1>H<sub>2</sub>O</h1>
+            <h1>2<sup>3</sup></h1>
+        </nav> 
+</body>
+</html>
