@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html> lan="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name ="viewpoint" content="width=device-width,initial-scale =1.0"> 
+    <title>Tble name</title>
+    </head>
+    <body>
+        <h2> student info </h2>
+        <tr> <th>s.no</th>
+            <TABLE style="border:1px solid red";border-collapse:border-collapse;>
+           <tr>
+            <th rowspan="5" style="border: 1px solid red;background-color: skyblue;"></th>
+            <th colspan= "5" style="border:1px solid red ;background-color: black;"></th>
+          <tr> <th>name</th>
+            <th>class</th>
+            <th>roll no</th>   
+          </tr>
+    <tr>
+                  <th>musski</th>
+                  <th>mba</th>
+                 <th>5</th>   
+     </tr>
+     <tr>         <th>mehak</th>
+                  <th>mca</th>
+                  <th>0</th>    </tr>
+
+    <th>student data</th>
+ </tr>
+        </body>
+</html>
