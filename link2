@@ -1,0 +1,22 @@
+<h1>
+    LISTING EXAMPLE
+</h1>
+<H2>
+    OREDERED LIST
+</H2>
+<H3>
+    <ol type ="A" start="D">
+        <LI> ORDERED LIST NUMBER 1</LI>
+        <LI> ORDERED LIST NUMBER 2</LI>
+        <LI> ORDERED LIST NUMBER 3</LI>
+        <LI> ORDERED LIST NUMBER 4</LI>
+        <LI> ORDERED LIST NUMBER 5</LI>
+    </ol>
+</H3>
+<H2>Example 1: Ordered list</H2>
+<h4>
+    <UL STYLE ="List-style-type :circle;">
+        <dd>java</dd>
+        <dt>this is a language</dt>
+    
+</H2>
