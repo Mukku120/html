@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM EXAMPLE</title>
+</head>
+<body>
+    <h2> HTML FORMS</h2>
+    <form>
+<label> enter your name </label><br/>
+<input type="text" name="name"id ="name"placeholder="enter name "/><br/>
+<label>enter your password</label><br/>
+<input type ="password" name ="pass" id="pass"placeholder="enter password"/><br/>
+
+</form>
+</body>
+</html>
