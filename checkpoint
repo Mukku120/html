@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>Document</title>
+</head>
+<body>
+    <input     type="number" 
+    name="roll no"
+    id="roll no"
+    placeholder="enter roll no"
+    step="4" 
+    /><br/>
+    <label for="mycolor">select your color</label><br/>
+</body>
+</body>
+</html>
