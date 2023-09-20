@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Example</title>
+   
+    <style type="text/css">
+        h2{
+            color:blue;
+            text-align:right;
+        }
+    </style>
+    <link rel="spreadsheet" href="style\style.css">
+</head>
+<body>
+    <h1 style="color:brown;">CSS Inline Example</h1>
+    <h2>This is internal CSS Example</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem quasi, maiores qui quam vero similique laudantium nobis sunt voluptatem sequi soluta libero perferendis? Corrupti atque quasi commodi? Facilis, maxime voluptas.
+    Natus tempora quaerat dignissimos eos? Labore numquam similique soluta totam nobis deleniti autem incidunt cum? Quisquam ad qui eveniet suscipit nulla veniam officia sunt. Repellendus assumenda eius officiis perferendis odio.
+    Sequi tempora itaque illo, magni nemo deleniti temporibus, animi accusamus voluptate voluptatem, consequuntur recusandae provident iste iusto facere labore pariatur perferendis maxime at libero fugiat repellendus dolorum? Neque, aliquid cupiditate.
+    Explicabo laboriosam necessitatibus nam officiis, magnam minima rerum voluptate iure nisi ex, numquam minus veritatis ab, tempora consequatur perferendis eum fugit! Autem, voluptatum! Quibusdam sit modi veritatis esse autem explicabo!
+    Deserunt eos ab dolores dolorem eveniet iure dolore non, veniam nobis quasi labore quas alias eaque, porro sunt minus autem. Repellat magnam neque sit quisquam? Consequatur numquam quibusdam a aperiam?, ipsum dolor sit amet consectetur adipisicing elit. Quisquam quos similique nostrum id. Dolorum illum cumque aperiam in repellat debitis consectetur similique quidem? Nostrum reprehenderit ipsum neque, atque suscipit illo?
+    Consequatur nihil ab ipsam recusandae perferendis maiores labore quaerat placeat magnam nobis explicabo laboriosam iure libero facilis dolore asperiores, soluta qui adipisci eaque! Voluptatibus fuga quod harum nemo, consectetur quasi.
+</p>
+</body>
+</html>
