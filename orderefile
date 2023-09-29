@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)file:///C:/Users/student/Desktop/ordered_listingvector1.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title> Orderedli List</title></head>
+    <body>
+    <h1> Ordered List :</h1>
+    <ol>
+        <li>Open box </li>
+        <li> Take out cookie </li>
+        <li> Make a Double Oreo </li>
+
+    <ol>
+        <li> Peel off the top part</li>
+        <li>Place another cookie in the middle</li>
+        <li> Put back the top part</li>
+        </ol>
+     <li> Enjoy!</li>   
+    </ol>
+
+    <h1> Unordered list</h1>
+    My typical dinner shopping list:
+    <ul>
+    <li>Milk</li>
+    <li>Donuts</li>
+    <li>Cookies</li>
+    <ul>
+        <li>chocolate</li>
+        <li>sugar</li>
+        <li>Peanut butter</li>
+        </ul>
+    <li>Pepto Bismol</li>  
+    </ul>  
+    <dl>Data Listing
+    <dt>Noun</dt>
+    <dd>represents name, place, animal &amp; thing</dd>
+    <dt>Verb</dt>
+    <dd>represents some action.</dd>
+                      
+
+
+</dl></body></html>
